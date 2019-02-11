@@ -1,10 +1,10 @@
 # Resources
 
-## Documents Used
-* [FAQ/Walkthrough by EntropicLobo](http://www.gamefaqs.com/gameboy/569755-kaeru-no-tame-ni-kane-wa-naru/faqs/46198): A mostly accurate walkthrough of the game.
-
 ## Background
 * [Yasuhiko Fujii – 2007 Developer Interview](http://shmuplations.com/yasuhikofujii/)
+
+## Documents Used
+* [FAQ/Walkthrough by EntropicLobo](http://www.gamefaqs.com/gameboy/569755-kaeru-no-tame-ni-kane-wa-naru/faqs/46198): A mostly accurate walkthrough of the game.
 
 ## Programs Used
 * [frogslator](https://github.com/ryanbgstl/frogslator): Translation utility.
